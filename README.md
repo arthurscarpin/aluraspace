@@ -6,7 +6,7 @@ Com o objetivo de colocar em prática os conhecimento adquiridos em Python orien
 ## 🖥️ Tecnologias utilizadas
 <div align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,python,django,sqlite"/>
+        <img src="https://skillicons.dev/icons?i=html,css,js,python,django,sqlite"/>
     </a>
 </div>
 
