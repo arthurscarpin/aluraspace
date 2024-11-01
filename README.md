@@ -43,10 +43,12 @@ python manage.py migrate
 python manage.py createsuperuser
 ```
 
-6. Perform SQLite Migration.
+6. Executar o projeto.
 ```
 python manage.py runserver
 ```
 
 ## 📁 Documentações de referência
+[Documentação Python](https://docs.python.org/3/)
+
 [Documentação Django](https://www.djangoproject.com/)
